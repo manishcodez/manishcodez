@@ -30,7 +30,7 @@
 <div align="center">
 
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,js&theme=dark)
-![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,py,c&theme=dark)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,py&theme=dark)
 ![Database](https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark)
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel&theme=dark)
 
