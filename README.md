@@ -53,6 +53,7 @@ I use AI tools to move faster on prototyping, debugging and boilerplate. Every l
 - 🧑‍💻 **Freelance projects:** web apps, admin dashboards, secure checkout flows, AI integrations
 
 **Let's talk:** [LinkedIn](https://linkedin.com/in/manishcodez) · 📧 manishyadav4u32@gmail.com
+
 ---
 
 <div align="center">
