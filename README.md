@@ -8,7 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manishcodez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manishcodez)
 [![X](https://img.shields.io/badge/X-@manishcodez-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/manishcodez)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishyadav4u32@gmail.com)
+
+📧 manishyadav4u32@gmail.com
 
 </div>
 
@@ -51,8 +52,7 @@ I use AI tools to move faster on prototyping, debugging and boilerplate. Every l
 - 💼 **Full-time roles:** Full-Stack / MERN Developer
 - 🧑‍💻 **Freelance projects:** web apps, admin dashboards, secure checkout flows, AI integrations
 
-**Let's talk:** [LinkedIn](https://linkedin.com/in/manishcodez) · [Email](mailto:manishyadav4u32@gmail.com)
-
+**Let's talk:** [LinkedIn](https://linkedin.com/in/manishcodez) · 📧 manishyadav4u32@gmail.com
 ---
 
 <div align="center">
